@@ -1,0 +1,11 @@
+name: ZerthallSurvival
+main: me.justcallmelewis.SystemCore.Core
+version: 1.0
+author: Justcallmelewis
+commands:
+  sethome:
+    description: Sets the players home location.
+  homeinfo:
+    description: Shows your location co-ordinates for your home.
+  home:
+    description: Teleports to your home location.

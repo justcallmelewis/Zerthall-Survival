@@ -1,0 +1,6 @@
+mongo:
+    username: 'system'
+    password: '2F82e8c859'
+    database: 'zmodded'
+    host: '176.31.247.160'
+    port: 28018
